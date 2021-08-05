@@ -10,7 +10,7 @@
     <?php 
         $linha = "Lorem Ipsum Dolor Sit Amet";
 
-        //Retorna o cumprimento de uma string
+        //Retorna o comprimento de uma string
         echo strlen($linha);
 
         echo '<br/>';
